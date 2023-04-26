@@ -1,0 +1,30 @@
+*{
+    margin:0%;
+    padding: 0%;
+}
+header{
+    margin-top: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+}
+.navigation{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+.lista{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    text-decoration: none;
+    list-style:none
+}
+a{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
